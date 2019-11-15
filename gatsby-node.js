@@ -1,6 +1,8 @@
 const path = require(`path`)
 const { createFilePath } = require(`gatsby-source-filesystem`)
 
+process.env.NODE_TLS_REJECT_UNAUTHORIZED = "0"
+
 exports.createPages = async ({ graphql, actions }) => {
   const { createPage } = actions
 
