@@ -1,0 +1,7 @@
+https://www.gatsbyjs.org/tutorial/part-one/
+https://www.gatsbyjs.org/packages/gatsby-source-wordpress/?=gatsby-source-wordpress
+https://www.gatsbyjs.org/blog/2018-02-09-announcing-gatsby-manor-themes-for-gatsbyjs/#overview
+https://deliciousbrains.com/gatsby-headless-wordpress/
+https://www.npmjs.com/package/dotenv
+https://medium.com/@trekinbami/using-environment-variables-in-react-6b0a99d83cf5
+https://github.com/ptasker/static-petetasker.com
