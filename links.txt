@@ -5,3 +5,14 @@ https://deliciousbrains.com/gatsby-headless-wordpress/
 https://www.npmjs.com/package/dotenv
 https://medium.com/@trekinbami/using-environment-variables-in-react-6b0a99d83cf5
 https://github.com/ptasker/static-petetasker.com
+
+
+Richs' work:
+https://quirky-goldberg-c6151a.netlify.com/
+
+Mine:
+https://vigilant-wozniak-455a3a.netlify.com
+
+Current issue - why can't I build locally?
+
+Next - start to plumb current cargo styles in.
